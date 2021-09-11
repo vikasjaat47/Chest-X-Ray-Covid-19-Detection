@@ -20,6 +20,6 @@ Here we apply two model :
  (convolutional neural networks (CNNs) trained on ImageNet, and adapt them to behave as feature extractors for the X-ray images)
    - Accuracy : 97%
    
-[evalution_with_Transfer_learning]()
+[evalution_with_Transfer_learning](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/evalution_with_Transfer_Learning.png)
 
 [confusion_matrix_with_Transfer_Learning](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/Confusion_Matrix_Tranfer_Learning.png)
