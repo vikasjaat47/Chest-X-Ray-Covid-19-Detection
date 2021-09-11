@@ -12,7 +12,7 @@ Here we apply two model :
 1. CNN Model 
    - Accuracy : 95%
    
-[evalution_with_cnn]()
+[evalution_with_cnn](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/Evalution_With_CNN.png)
 
 [confusion_marix_with_cnn](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/Confusion_Matrix_CNN.png)
 
