@@ -22,4 +22,4 @@ Here we apply two model :
    
 [evalution_with_Transfer_learning]()
 
-[confusion_matrix_with_Transfer_Learning]()
+[confusion_matrix_with_Transfer_Learning](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/Confusion_Matrix_Tranfer_Learning.png)
