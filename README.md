@@ -11,13 +11,15 @@ The Dataset contain :
 Here we apply two model :
 1. CNN Model 
    - Accuracy : 95%
+   
 [evalution_with_cnn]()
 
-[confusion_marix_with_cnn]()
+[confusion_marix_with_cnn](https://github.com/Sonukumari97/Chest-X-Ray-Covid-19-Detection/blob/main/Output/Confusion_Matrix_CNN.png)
 
 2. Transfer Learning Approch using MobileNet algorithem with pre-trained Imagenet weights
  (convolutional neural networks (CNNs) trained on ImageNet, and adapt them to behave as feature extractors for the X-ray images)
    - Accuracy : 97%
+   
 [evalution_with_Transfer_learning]()
 
 [confusion_matrix_with_Transfer_Learning]()
